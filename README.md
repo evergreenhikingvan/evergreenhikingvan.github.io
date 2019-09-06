@@ -1,3 +1,3 @@
 # evergreenhikingvan.github.io
-# [Wednesday](hiking_wednesday.pdf)
-# [Saturday](hiking_saturday.pdf)
+# [Wednesday](hiking_wed.pdf)
+# [Saturday](hiking_sat.pdf)
